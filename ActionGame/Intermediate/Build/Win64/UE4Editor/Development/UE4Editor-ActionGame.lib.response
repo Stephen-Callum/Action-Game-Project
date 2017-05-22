@@ -1,0 +1,25 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-ActionGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB:"LIBCMT"
+/NODEFAULTLIB:"LIBCPMT"
+/NODEFAULTLIB:"LIBCMTD"
+/NODEFAULTLIB:"LIBCPMTD"
+/NODEFAULTLIB:"MSVCRTD"
+/NODEFAULTLIB:"MSVCPRTD"
+/NODEFAULTLIB:"LIBC"
+/NODEFAULTLIB:"LIBCP"
+/NODEFAULTLIB:"LIBCD"
+/NODEFAULTLIB:"LIBCPD"
+"C:\Users\owena\Documents\Action Game Project\ActionGame\Intermediate\Build\Win64\UE4Editor\Development\ActionGame\PCH.ActionGame.h.obj"
+"C:\Users\owena\Documents\Action Game Project\ActionGame\Intermediate\Build\Win64\UE4Editor\Development\ActionGame\ActionGame.cpp.obj"
+"C:\Users\owena\Documents\Action Game Project\ActionGame\Intermediate\Build\Win64\UE4Editor\Development\ActionGame\ActionGameCharacter.cpp.obj"
+"C:\Users\owena\Documents\Action Game Project\ActionGame\Intermediate\Build\Win64\UE4Editor\Development\ActionGame\ActionGameGameMode.cpp.obj"
+"C:\Users\owena\Documents\Action Game Project\ActionGame\Intermediate\Build\Win64\UE4Editor\Development\ActionGame\ActionGame.generated.cpp.obj"
+"E:\Program Files\UE_4.15\Engine\Intermediate\Build\Win64\UE4Editor\Development\ActionGame\PCLaunch.rc.res"
+"E:\Program Files\UE_4.15\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"C:\Users\owena\Documents\Action Game Project\ActionGame\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ActionGame.lib"
